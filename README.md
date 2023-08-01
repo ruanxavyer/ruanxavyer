@@ -1,6 +1,6 @@
-### Hi there 👨‍💻
+### Olá! Sou Ruan Xavier 🖐🏽
 
-Eu sou o Ruan Xavier, sou um Programador Front End atualmente estou aprendendo e criando projetos com:
+ Um Programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="img-html-logo"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="img-css-logo">  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="img-javascript-logo">
